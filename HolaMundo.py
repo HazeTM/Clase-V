@@ -1,1 +1,1 @@
-print ("Hola Itec 2025")
+print ("The arcana is the mean by wich all will be revealed")
